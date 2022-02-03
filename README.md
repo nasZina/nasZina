@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nasZina
 - 👀 I’m interested in Python, Javascript and CSS.
 - 🌱 I’m currently learning Data Engineering using Python.
-- 💞️ I’m looking to collaborate on Javascript and CSS projects.
+- 💞️ I’m looking to collaborate on python projects.
 - 📫 How to reach me on slack: nasseradahmani@icloud.com
 
 <!---
